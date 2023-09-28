@@ -1,0 +1,22 @@
+.divA {background-color: #BDB76B; 
+    width: 750px;
+     height: 750px;
+
+}
+.divB {background-color: #7B68EE;
+     width: 375px; 
+     height: 375px;
+
+}
+.paragrafo {color: thistle;
+     background-color: tomato;
+    font-size: 30px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.divD {width: 75%; 
+    height: 75vh;
+    background-color: #C71585;
+}
+.divE {width: 50vh; 
+    height: 75%; 
+    background-color: #800000;}
